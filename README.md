@@ -1,5 +1,5 @@
 ### Hi, my name is Guillaume ! 👋
-## I code stuff :test-tube:, and hate @Amaroke all day every day :smile:
+I code stuff :test-tube: , and hate @Amaroke all day every day :smile:
 
 <h3 align="center">
    </br></br>
