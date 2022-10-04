@@ -1,5 +1,5 @@
 ### Hi, my name is Guillaume ! :raising_hand_man:
-I code stuff :test_tube: , and hate @Amaroke all day every day :smile:
+I code stuff :test_tube:
 
 <h3 align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
